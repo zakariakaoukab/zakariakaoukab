@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Hi there, I'm Zakaria 👋
 
 ```java
@@ -147,4 +145,4 @@ only to discover the missing semicolon was judging me the entire time.
 
 ⭐ Always building, always learning.
 
--->
+

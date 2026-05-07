@@ -11,7 +11,7 @@ while(alive){
 
 ## About Me
 
-I'm a software engineer student passionate about building scalable applications, intelligent systems, and turning complex ideas into real products.
+I'm a software engineer passionate about building scalable applications, intelligent systems, and turning complex ideas into real products.
 
 I enjoy working on:
 
@@ -77,47 +77,6 @@ Currently exploring deeper into:
 
 ---
 
-## Featured Projects
-
-### Smart Supermarket System (Microservices)
-
-Distributed supermarket management system built with:
-
-* Spring Boot
-* RabbitMQ
-* Docker
-* Microservices Architecture
-
-Features:
-
-* Authentication & authorization
-* Event-driven communication
-* Containerized services
-
----
-
-### Hotel Booking Mobile App
-
-Mobile application for hotel reservations built using Flutter.
-
-Features:
-
-* Modern UI
-* API integration
-* Smooth booking experience
-
----
-
-### Food Delivery Application
-
-Native Android application with:
-
-* Firebase integration
-* Google Maps API
-* Real-time data handling
-
----
-
 ## What I Like Building
 
 * Scalable backend systems
@@ -126,19 +85,11 @@ Native Android application with:
 * Mobile apps
 * Full-stack platforms
 * Data-driven solutions
-
----
-
-## A Little Fun Fact
-
-I can spend hours debugging a problem...
-only to discover the missing semicolon was judging me the entire time.
-
 ---
 
 ## Connect With Me
 
-* LinkedIn: [Your LinkedIn]
+* LinkedIn: https://www.linkedin.com/in/zakariae-kaoukab-a415542b0/
 * Email: [Zakariae.kaoukab@gmail.com](mailto:Zakariae.kaoukab@gmail.com)
 
 ---

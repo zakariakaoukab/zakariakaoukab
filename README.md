@@ -1,13 +1,7 @@
 
 # Hi there, I'm Zakaria 👋
 
-```java
-while(alive){
-    learn();
-    build();
-    improve();
-}
-```
+
 
 ## About Me
 
